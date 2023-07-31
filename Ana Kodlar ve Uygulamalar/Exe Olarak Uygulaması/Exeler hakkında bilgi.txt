@@ -1,0 +1,2 @@
+Bu exelerde içinde kod olmadan uygulamayı çalıştırmaya yarar.
+İnternet hızınıza göre  hızlı/orta/yavaş uygulamalarına girebilirsiniz.

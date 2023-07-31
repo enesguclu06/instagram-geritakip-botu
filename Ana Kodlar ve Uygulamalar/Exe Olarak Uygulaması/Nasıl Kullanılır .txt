@@ -1,0 +1,7 @@
+Kullanıcı adınızı ve şifrenizi girdikten sonra giriş butonuna basınız
+
+Chrome otamatik kapanana kadar hiçbir butona basmayınız
+
+Chrome kapanınca istediğiniz butona basabilirsiniz
+
+Chrome olmadan çalışmaz !
