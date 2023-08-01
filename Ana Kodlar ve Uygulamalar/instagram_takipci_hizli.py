@@ -120,7 +120,7 @@ class MainWindow(QWidget):
         username = self.username_input.text()
         password = self.password_input.text()
 
-        if username and password:  #username ve password girilmişse uygulamayı açıyor.
+        if username and password:  #kullanıcı adı ve şifre girilmişse uygulamayı açıyor.
             self.thread = InstagramThread(username, password)
             self.thread.start()
 
